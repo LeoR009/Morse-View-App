@@ -10,7 +10,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.yy.morseview"
+        applicationId = "com.LeoR.morseview"
         minSdk = 26
         targetSdk = 37
         versionCode = 1
