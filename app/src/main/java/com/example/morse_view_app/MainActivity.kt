@@ -590,7 +590,7 @@ fun MorseApp() {
             .fillMaxSize()
             .safeDrawingPadding()
     ) {
-        TabRow(
+        PrimaryTabRow(
             selectedTabIndex = selectedTab,
             containerColor = Color(0xFF121418),
             contentColor = Color(0xFF39FF14)

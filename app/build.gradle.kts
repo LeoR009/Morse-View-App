@@ -10,11 +10,11 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.morse_view_app"
+        applicationId = "com.yy.morseview"
         minSdk = 26
         targetSdk = 37
         versionCode = 1
-        versionName = "1.0"
+        versionName = "1.0.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
